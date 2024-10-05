@@ -2,7 +2,7 @@
 
 I am a middle-stage PhD student with [Alex Ecker](https://eckerlab.org/). 
 I am interested in discovering the brain using deep learning as a tool. I am particularly curious about the (functional) cell types from the biological perspective. 
-From the technical side, I wourk on reproducibility, dimensionality reduction, clustering, and start looking into the foundational models for predicting neurons activity, with a focus on dynamic models.
+From the technical side, I work on reproducibility, dimensionality reduction, clustering, and start looking into the foundational models for predicting neurons activity, with a focus on dynamic models.
 
 
 In 2023, jointly with Paul Fahey we co-leaded the [Sensorium 2023 competition](https://www.sensorium-competition.net/) to make deep learning predictive models more accessible, improve state of the art models and close the bridge between the computational and experimental communities.
