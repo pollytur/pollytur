@@ -7,7 +7,7 @@ From the technical side, I work on reproducibility, dimensionality reduction, cl
 
 In 2023, jointly with Paul Fahey we co-leaded the [Sensorium 2023 competition](https://www.sensorium-competition.net/) to make deep learning predictive models more accessible, improve state of the art models and close the bridge between the computational and experimental communities.
 
-I am open for internships and collaborations in both neuroscience and ML, espesially in the field of interpretability and/or multimodal learning.
+I am open for internships and collaborations in both neuroscience and ML, espesially in the field of (mechanistic) interpretability and/or multimodal learning, or interesting full-time offers for research scientist/engineer.
 
 ## 🗣️ Connect with Me
 - [Twitter](https://x.com/pollytur1)
